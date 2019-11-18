@@ -6,7 +6,7 @@ Copyright©2017-2019 Funglui Koo. All rights reserved.
 All texts, images, illustrations and other material on this Internet site are subject to copyright held by Funglui Koo unless otherwise stated. The licenses to which this work apply are in the LICENSE.md file.
 
 **About** 
-Welcome to C++ for beginers! Here you will find small codes for C beginners without prior programming experiences. I hope that you find them helpful, and do not forget to STAR this resipository :)
+Welcome to C for beginers! Here you will find small codes for C beginners without prior programming experiences. I hope that you find them helpful, and do not forget to STAR this resipository :)
 
 **Acknowledgment**
 Special thanks to my Professor [Manuel Charlemagne](https://www.researchgate.net/scientific-contributions/70099481_Manuel_Charlemagne) and my Teaching Assistant FU Xiaohan ([@Reapor-Yurnero](https://github.com/Reapor-Yurnero)), et al. for their tremendous efforts in preparing lectures and recitations, and great efforts in helping with our naive problems. Also, this resipository can never has its day without them. The problem sets and other course materials for VG101 at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) herein are NOT subject to copyright held by Funglui, but to Emperor Charlemagne.
